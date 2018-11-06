@@ -1,4 +1,4 @@
-Area Type,BLS Area Code,County Name,State,Display Level,Selectable,Sort Sequence
+Area Type,BLS Area Code,county,State,Display Level,Selectable,Sort Sequence
 F,CN0108100000000,Lee County,AL,0,T,71
 F,CN0100700000000,Bibb County,AL,0,T,34
 F,CN0102700000000,Clay County,AL,0,T,44
